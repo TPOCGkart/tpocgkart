@@ -15,7 +15,7 @@
     box-sizing: border-box;
 }
 
-/* .intro {
+ .intro {
     position: fixed;
     display: flex;
     justify-content: center;
@@ -30,7 +30,7 @@
     background-size: cover;
     transition: 1.2s;
 }
-*/
+
 
 .logo-header {
     display: flex;
@@ -477,7 +477,7 @@ nav {
     width: 50px;
 }
 
-@media only screen and (max-width: 600px) {
+/* @media only screen and (max-width: 600px) {
     main,
     section {
         width: 620px;
@@ -492,4 +492,4 @@ nav {
     #brandList {
         width: 620px;
     }
-}
+} */

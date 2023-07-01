@@ -64,6 +64,7 @@ html {
 body {
     height: 100%;
     width: 100%;
+    overflow-x: hidden;
 }
 
 header,
@@ -74,7 +75,7 @@ footer {
 
 .wires {
     position: absolute;
-    width: 100vw;
+    width: 100%;
     top: 60vh;
     z-index: 0;
 }
